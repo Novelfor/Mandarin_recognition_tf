@@ -16,3 +16,5 @@ To improve the speed during decoding in dynamic GRU, we put the setences with si
 
 ## Pre-trained model download link.
 [Dropbox](https://www.dropbox.com/s/g3p64r8eg1vrk20/CHINESE_CHARACTERS_19.zip?dl=0)
+
+[Baidu](https://pan.baidu.com/s/1UgT7GjqChA7PSs8N-QC5BQ)
